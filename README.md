@@ -3,7 +3,8 @@ This game was developed as a project of the discipline IP(Introduction to Progra
 made using C language and it also features the Allegro Library.
 This game is a battle-royale type which supports at most 4 players in a local server.
 
-Participants:
+1.Participants:
+
 Daniel Rodrigues Perazzo - drp
 
 José Carlos da Silva Cruz - jcsc
@@ -19,8 +20,10 @@ Zênio Ângelo Oliveira Neves - zaon
 Zilde Souto Maior Neto - zsmn
 
 
-Responsible Monitor:
+2.Responsible Monitor:
+
 Thiago Augusto dos Santos Martins - tasm
 
-Teacher:
+3.Teacher:
+
 Alexandre Cabral Mota - acm
